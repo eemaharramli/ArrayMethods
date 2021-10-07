@@ -1,0 +1,6 @@
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/bin/Debug/ArrayMethods.exe
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/bin/Debug/ArrayMethods.pdb
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.csproj.AssemblyReference.cache
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.csproj.CoreCompileInputs.cache
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.exe
+/Users/elnur/Desktop/CodeClass/C#/07.10.2021/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.pdb
